@@ -30,6 +30,6 @@
 	registered = true
 [submodule "WebPower"]
 	path = WebPower
-	url = https://github.com/cran/WebPower
+	url = https://github.com/johnnyzhz/webpower
 	shallow = true
 	registered = true
