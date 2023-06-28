@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bmem"]
 	path = bmem
 	url = https://github.com/cran/bmem
-	shallow = true
-	registered = true
 [submodule "bmemLavaan"]
 	path = bmemLavaan
 	url = https://github.com/cran/bmemLavaan
-	shallow = true
-	registered = true
 [submodule "coefficientalpha"]
 	path = coefficientalpha
 	url = https://github.com/cran/coefficientalpha
-	shallow = true
-	registered = true
 [submodule "logistic4p"]
 	path = logistic4p
 	url = https://github.com/cran/logistic4p
-	shallow = true
-	registered = true
 [submodule "rsem"]
 	path = rsem
 	url = https://github.com/cran/rsem
-	shallow = true
-	registered = true
 [submodule "WebPower"]
 	path = WebPower
 	url = https://github.com/johnnyzhz/webpower
-	shallow = true
-	registered = true
