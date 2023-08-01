@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WebPower"]
+	path = WebPower
+	url = https://github.com/johnnyzhz/webpower
 [submodule "bmem"]
 	path = bmem
 	url = https://github.com/cran/bmem
@@ -17,6 +20,3 @@
 [submodule "rsem"]
 	path = rsem
 	url = https://github.com/cran/rsem
-[submodule "WebPower"]
-	path = WebPower
-	url = https://github.com/johnnyzhz/webpower
