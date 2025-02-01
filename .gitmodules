@@ -17,6 +17,9 @@
 [submodule "logistic4p"]
 	path = logistic4p
 	url = https://github.com/cran/logistic4p
+[submodule "networksem"]
+	path = networksem
+	url = https://github.com/cran/networksem
 [submodule "rsem"]
 	path = rsem
 	url = https://github.com/cran/rsem
